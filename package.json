@@ -1,0 +1,22 @@
+{
+  "name": "danger-xcode_summary",
+  "version": "1.0.0",
+  "description": "[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE.txt) [![Gem Version](https://badge.fury.io/rb/danger-xcode_summary.svg)](https://badge.fury.io/rb/danger-xcode_summary) [![Build Status](https://travis-ci.org/diogot/danger-xcode_summary.svg?branch=master)](https://travis-ci.org/diogot/danger-xcode_summary) [![Dependency Status](https://dependencyci.com/github/diogot/danger-xcode_summary/badge)](https://dependencyci.com/github/diogot/danger-xcode_summary)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevethomp/danger-xcode_summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevethomp/danger-xcode_summary/issues"
+  },
+  "homepage": "https://github.com/stevethomp/danger-xcode_summary#readme"
+}
